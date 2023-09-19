@@ -1,0 +1,12 @@
+.toolbar-usage {
+    background-color: #f0f0f0;
+}
+
+.app-bar {
+    color: black !important;
+    box-shadow: none !important;
+}
+
+.link-app-bar {
+    margin: 0px 15px 0px 15px !important;
+}
